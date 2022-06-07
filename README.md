@@ -1,4 +1,4 @@
-## Hi 👋, I'm Brian
+## Hi 👋
 
 I'm a Blockchain Developer and I'm working on some side projects.
 
@@ -14,7 +14,7 @@ I'm a Blockchain Developer and I'm working on some side projects.
 - 🤔 I’m looking for help with L1 & L2 technologies.
 - 💬 Ping me about blockchain stuff.
 
-<h2>🚀 Weapons</h2>
+<h3>🚀 Tools</h3>
 
 <p align="left">
   

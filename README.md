@@ -10,7 +10,7 @@ I'm a Blockchain Developer and I'm working on some side projects.
 ### ⚡️ State
 
 <!-- - 🔭 I’m currently working at [FileStorage]. -->
-- 🧐 Diligently updating myself on blockchain, smart contracts, and web development.
+- 🧐 frequently updating myself on blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L1 & L2 technologies.
 - 💬 Ping me about blockchain stuff.
 

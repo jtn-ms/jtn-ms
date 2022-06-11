@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working at [BrainTrust]. -->
 - 🧐 *frequently updating myself on blockchain, smart contracts, and web development.*
-- 🤔 *I’m looking for help with L1 & L2 technologies.*
+<!-- - 🤔 *I’m looking for help with L1 & L2 technologies .* -->
 - 💬 *Ping me about blockchain stuff.*
 
 <h3>🚀 Tools</h3>

@@ -1,6 +1,8 @@
 ## Hi 👋
 
-I'm a Blockchain Developer and I'm working on some side projects.
+- *I'm a Blockchain Developer with data science background.*
+- *I love python. I think it's one of most powerful tools for automation, simulation, and problem-solving. It helps me understand how complex systems work and gives me insight of solutions.*
+- *I'm good at achitecture. I spend most of my time on studying new paradigms of system architecture. Designing, implementing, testing, analyzing, optimizing is my everyday job.* 
 
 [![linkedin](https://img.shields.io/badge/-brian.guzman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/brian-guzman21000/)](https://www.linkedin.com/in/brian-guzman21000/)
 [![Gmail](https://img.shields.io/badge/-brian.guzman-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:brian.guzman.ms@gmail.com)
@@ -9,20 +11,20 @@ I'm a Blockchain Developer and I'm working on some side projects.
 
 ### ⚡️ State
 
-<!-- - 🔭 I’m currently working at [FileStorage]. -->
-- 🧐 frequently updating myself on blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with L1 & L2 technologies.
-- 💬 Ping me about blockchain stuff.
+<!-- - 🔭 I’m currently working at [BrainTrust]. -->
+- 🧐 *frequently updating myself on blockchain, smart contracts, and web development.*
+- 🤔 *I’m looking for help with L1 & L2 technologies.*
+- 💬 *Ping me about blockchain stuff.*
 
 <h3>🚀 Tools</h3>
 
 <p align="left">
   
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />

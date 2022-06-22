@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- *I'm a Blockchain Developer.*
+- *I'm a Full Stack Developer.*
 - *I love python. I think it's one of most powerful tools for automation, simulation, and problem-solving. It helps me understand how complex systems work and gives me insight of solutions.*
 - *I'm good at achitecture. I spend most of my time on studying new paradigms of system architecture. Designing, implementing, testing, analyzing, optimizing is my everyday job.* 
 

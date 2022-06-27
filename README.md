@@ -1,8 +1,9 @@
 ## Hi 👋
 
-- *I'm a Full Stack Developer.*
-- *I love python. I think it's one of most powerful tools for automation, simulation, and problem-solving. It helps me understand how complex systems work and gives me insight of solutions.*
-- *I'm good at achitecture. I spend most of my time on studying new paradigms of system architecture. Designing, implementing, testing, analyzing, optimizing is my everyday job.* 
+- *I'm a Full Stack Developer. Designing, implementing, testing, analyzing, and optimizing.*
+- *I love python. It's very useful for automation, simulation, and problem-solving. It gives me insight on how functions should be designed and impelemented as well as how they actually work. through its high productivity.*
+- *I love working with javascript because it's easy, simple and everywhere. A single language for frontend and backend.*
+- *I enjoy to challenge against interesting web3 hackathons and hackerrank competitions every weekend and love to share what I learned with my friends.* 
 
 [![linkedin](https://img.shields.io/badge/-brian.guzman-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/brian-guzman21000/)](https://www.linkedin.com/in/brian-guzman21000/)
 [![Gmail](https://img.shields.io/badge/-brian.guzman-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:brian.guzman.ms@gmail.com)
@@ -14,7 +15,7 @@
 <!-- - 🔭 I’m currently working at [BrainTrust]. -->
 - 🧐 *frequently updating myself on blockchain, smart contracts, and web development.*
 <!-- - 🤔 *I’m looking for help with L1 & L2 technologies .* -->
-- 💬 *Ping me about blockchain stuff.*
+- 💬 *Ping me about blockchain and web stuff.*
 
 <h3>🚀 Tools</h3>
 

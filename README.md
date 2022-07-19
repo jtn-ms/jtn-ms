@@ -16,9 +16,9 @@
 
 <!-- - 🔭 I’m currently working at [BrainTrust]. -->
 - :sweat_smile: *Designing, implementing, testing, analyzing, and optimizing.*
-- 🧐 *frequently updating myself on blockchain, smart contracts, and web development.*
+- 🧐 *frequently updating myself on web development.*
 <!-- - 🤔 *I’m looking for help with L1 & L2 technologies .* -->
-- 💬 *Ping me about blockchain and web stuff.*
+<!-- - 💬 *Ping me about blockchain and web stuff.*  -->
 
 <h3>🚀 Tools</h3>
 
